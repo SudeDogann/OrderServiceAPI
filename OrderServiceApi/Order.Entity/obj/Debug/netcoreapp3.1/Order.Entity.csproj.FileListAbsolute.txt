@@ -1,0 +1,13 @@
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.AssemblyInfoInputs.cache
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.AssemblyInfo.cs
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.csproj.CoreCompileInputs.cache
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\bin\Debug\netcoreapp3.1\Order.Entity.deps.json
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\bin\Debug\netcoreapp3.1\Order.Entity.runtimeconfig.json
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\bin\Debug\netcoreapp3.1\Order.Entity.runtimeconfig.dev.json
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\bin\Debug\netcoreapp3.1\Order.Entity.dll
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\bin\Debug\netcoreapp3.1\Order.Entity.pdb
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.dll
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.pdb
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.genruntimeconfig.cache
+C:\Users\suded\source\repos\OrderServiceApi\Order.Entity\obj\Debug\netcoreapp3.1\Order.Entity.csproj.AssemblyReference.cache

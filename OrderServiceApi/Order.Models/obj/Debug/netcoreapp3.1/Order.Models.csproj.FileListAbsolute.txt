@@ -1,0 +1,10 @@
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\bin\Debug\netcoreapp3.1\Order.Models.deps.json
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\bin\Debug\netcoreapp3.1\Order.Models.dll
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\bin\Debug\netcoreapp3.1\Order.Models.pdb
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.csproj.AssemblyReference.cache
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.AssemblyInfoInputs.cache
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.AssemblyInfo.cs
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.csproj.CoreCompileInputs.cache
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.dll
+C:\Users\suded\source\repos\OrderServiceApi\Order.Models\obj\Debug\netcoreapp3.1\Order.Models.pdb
